@@ -39,7 +39,7 @@ Installation using pip:
 
 ### Running the Program
 
-After installing all the needed packages you should now be able to run the program properly. 
+After installing all the needed packages, you should now be able to run the program properly. 
 To run the Flask web-app, you navigate to the Project folder using a terminal and type: 
 ```
 	python script.py
